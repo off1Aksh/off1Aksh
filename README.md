@@ -1,7 +1,7 @@
 # Hi there, I'm  Akasha -> [Akasha Bin Ali](https://www.instagram.com/akashaa.9?utm_source=qr&igsh=dWg2c3dqOGJsYmp3) 👋
 ## About me:
 - 🎓 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
-- 📚 I’m currently learning Python, C, C++, PHP, Dart, SQL.
+- 📚 I’m currently learning Python, C, C++, PHP, Dart, SQL, Microsoft.
 - 🤝 I’m looking to collaborate as Web Development.
 - 🌐 I’m looking for Information and Communication Technology Internsip Partner.
 - 💡 Ask me about anything.
@@ -35,9 +35,9 @@
 
 ### Connect with me:
 <div> 
-  <a href="http://www.youtube.com/@ilhammuhammadarif8214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ilham-muhammad-arif-751252369" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://youtube.com/@akashaali3426?si=iw_ii4mlTiumRX30" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/akashaa.9?utm_source=qr&igsh=dWg2c3dqOGJsYmp3" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/akasha-bin-ali-4b6792368" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
  ##
