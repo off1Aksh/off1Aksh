@@ -25,23 +25,22 @@
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="C++" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/250px-ISO_C%2B%2B_Logo.svg.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Dart" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/250px-Dart_programming_language_logo.svg.png" style="padding-right:0px;" />][webdev]
-[<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Dart" width="90px" src="https://dart.dev/assets/img/logo/logo-white-text.svg" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="PHP" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/330px-PHP-logo.svg.png" style="padding-right:10px;" />][webdev]
 
 <br />
 <br />
 
 ---
+
 ### Connect with me:
+<div> 
+  <a href="http://www.youtube.com/@ilhammuhammadarif8214" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ilham-muhammad-arif-751252369" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/ilham-muhammad-arif-751252369#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/ilhmarfff?igsh=MXhiZnFxZWdxZDlsdw==#gh-dark-mode-only)
-
+ ##
 
 
 [webdev]: https://github.com/imarif69/imarif69/
