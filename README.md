@@ -2,7 +2,7 @@
 ## About me:
 - 🎓 I’m currently a student at Politeknik Negeri Semarang Electrical Engineering majoring in Computer Engineering Technology.
 - 📚 I’m currently learning Python, C, C++, PHP, Dart, SQL, Microsoft.
-- 🤝 I’m looking to collaborate as Web Development.
+- 🤝 I’m looking to collaborate as Web Dev, Full Stack, Game Dev.
 - 🌐 I’m looking for Information and Communication Technology Internsip Partner.
 - 💡 Ask me about anything.
 - 📩 How to reach me: akashabnali@gmail.com.
@@ -12,7 +12,7 @@
 #### 1. [Politeknik Negeri Semarang](https://web.polines.ac.id/en_us/) | Collage Student of Computer Engineering Technology | Semarang `2022-Now`
    - On-Going Bachelor Degree in Computer Science Engineering, 3.41/4.00
  #### 2. MAN Salatiga | MIPA | Salatiga `2019-2022`
-   - Graduated from high school in 2019 - 2020
+   - Graduated from high school in 2022
 
 ### 🏆 Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1Aksh&layout=compact&theme=radical)](https://github.com/imarif69/github-readme-stats)
