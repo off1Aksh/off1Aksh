@@ -15,7 +15,7 @@
    - Graduated from high school in 2022
 
 ### 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1Aksh&layout=compact&theme=radical)](https://github.com/imarif69/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1Aksh&layout=compact&theme=radical)](https://github.com/off1Aksh/github-readme-stats)
 
 ##
 
