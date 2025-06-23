@@ -15,7 +15,9 @@
    - Graduated from high school in 2022
 
 ### 🏆 Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1Aksh&layout=compact&theme=radical)](https://github.com/off1Aksh/github-readme-stats)
+[![Akasha's github stats](https://github-readme-stats-one-bice.vercel.app/api?username=off1Aksh&theme=dark&include_all_commits=true&show_icons=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_orgs=true)](https://github.com/off1Aksh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=off1Aksh&layout=compact&theme=radical)](https://github.com/imari28/github-readme-stats)
+
 
 ##
 
